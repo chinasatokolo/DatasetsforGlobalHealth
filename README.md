@@ -5,8 +5,8 @@ Aggregating datasets relevant to healthcare issues in the Global South.
 Here are a list of intriguing datasets I've found so far:
 
 ### COVID-19
-[COVID-19 Africa Intervention Dates](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/353MVB)
-[Line list of Coronavirus cases in Africa](https://github.com/dsfsi/covid19africa)
+*[COVID-19 Africa Intervention Dates](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/353MVB)
+*[Line list of Coronavirus cases in Africa](https://github.com/dsfsi/covid19africa)
 
 
 ## Datasets I'm working on
