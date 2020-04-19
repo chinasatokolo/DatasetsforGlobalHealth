@@ -4,9 +4,23 @@ Aggregating datasets relevant to healthcare issues in the Global South.
 ## Datasets
 Here are a list of intriguing datasets I've found so far:
 
+### General Global Health
+The World Health Organization (WHO) has a great list of datasets 
+
+* [WHO Global Health Observatory](https://apps.who.int/gho/data/node.home)
+* [Global Health Data Exchange](http://ghdx.healthdata.org/)
+* [Health Intelligence Meta list of data sources](http://publichealthintelligence.org/content/resources/data-sources)
+* [African Health Stats](https://www.africanhealthstats.org/)
+* [Pan American Health Organization (PAHO) Regional Health Observatory](https://www.paho.org/data/index.php/es/)
+
+
 ### COVID-19
 * [COVID-19 Africa Intervention Dates](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/353MVB)
 * [Line list of Coronavirus cases in Africa](https://github.com/dsfsi/covid19africa)
+
+## HIV/AIDS
+
+## Malaria, TB
 
 
 ## Datasets I'm working on
