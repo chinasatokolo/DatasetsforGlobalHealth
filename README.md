@@ -5,7 +5,7 @@ Aggregating datasets relevant to healthcare issues in the Global South.
 Here are a list of intriguing datasets I've found so far:
 
 ### General Global Health
-The World Health Organization (WHO) has a great list of datasets 
+The World Health Organization (WHO) has a great list of datasets on maternal mortality, communicable diseases, mental heath, subtance abuse, health financing and much more! Check out their website along with the others I have listed below:
 
 * [WHO Global Health Observatory](https://apps.who.int/gho/data/node.home)
 * [Global Health Data Exchange](http://ghdx.healthdata.org/)
@@ -27,7 +27,7 @@ The World Health Organization (WHO) has a great list of datasets
 
 
 ## Datasets I'm working on
-Like a lot of other researches nowadays, I am interested in collecting data about COVID-19! Some of my current work on datasets revolves around this.
+Like a lot of other researchers nowadays, I am interested in collecting data about COVID-19! Some of my current work with datasets revolves around this. Also, as a computer vision researcher, it's somewhat hard to find image or video datasets. I'm curating one at the moment for respiratory disease diagnosis, and definitely hope to share it in the future!
 
 * mHealth applications deployed throughout the Global South
 * COVID-19 economic relief policies in African countries
