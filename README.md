@@ -1,8 +1,16 @@
 # Datasets for Global Health
 Aggregating datasets relevant to healthcare issues in the Global South.
 
+## Datasets
+Here are a list of intriguing datasets I've found so far:
+
+### COVID-19
+[COVID-19 Africa Intervention Dates](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/353MVB)
+[Line list of Coronavirus cases in Africa](https://github.com/dsfsi/covid19africa)
+
 
 ## Datasets I'm working on
+Like a lot of other researches nowadays, I am interested in collecting data about COVID-19! Some of my current work on datasets revolves around this.
 
 * mHealth applications deployed throughout the Global South
 * COVID-19 Economic relief policies in African countries
